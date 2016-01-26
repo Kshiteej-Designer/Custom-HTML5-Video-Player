@@ -6,4 +6,4 @@ Setp 2: add video-js.css in header.
 Setp 3: add custom-player.js into footer.
 
 
-You iwll Rockzzz..!
+You will Rockzzz..!
